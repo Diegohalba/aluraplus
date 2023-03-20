@@ -1,2 +1,2 @@
 # aluraplus
-Página do Alura+ densenvolvida durante o de html/css
+Página do Alura+ densenvolvida durante o curso de html/css
